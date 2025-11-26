@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./src/Frontend
+        working-directory: ./src/frontend
 
     steps:
       - name: Checkout code
