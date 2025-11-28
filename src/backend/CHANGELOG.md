@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/sitol/devops-study-app/compare/backend-v0.1.0...backend-v0.2.0) (2025-11-28)
+
+
+### Features
+
+* **backend:** added container image building and pushing ([#8](https://github.com/sitol/devops-study-app/issues/8)) ([20a0e82](https://github.com/sitol/devops-study-app/commit/20a0e8229d84be8a4624b2a0adfed2df0d9dea62))
+
 ## 0.1.0 (2025-11-27)
 
 
