@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/sitol/devops-study-app/compare/backend-v0.2.0...backend-v0.2.1) (2025-12-05)
+
+
+### Bug Fixes
+
+* **backend:** trigger pipeline ([#17](https://github.com/sitol/devops-study-app/issues/17)) ([133f945](https://github.com/sitol/devops-study-app/commit/133f9453c1d0cb2c27a8236c3eec1210d2319f30))
+
 ## [0.2.0](https://github.com/sitol/devops-study-app/compare/backend-v0.1.0...backend-v0.2.0) (2025-11-28)
 
 
